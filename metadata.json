@@ -1,0 +1,5 @@
+{
+  "name": "Graphic Recorder AI",
+  "description": "Transforms text or documents into visual graphic recording summaries using Gemini Nano Banana Pro.",
+  "requestFramePermissions": []
+}
